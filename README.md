@@ -24,3 +24,9 @@ crabkeibo/
 │       └── db.rs           # Database utilities, for example
 └── .env                    # Environment variables (if needed)
 ```
+
+# Tech Stack
+- API using rust, axum
+- DB using sqlite
+- Backup, using DC Storage/S3
+- Logging, using mongodb
