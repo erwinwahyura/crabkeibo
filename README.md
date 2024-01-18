@@ -1,5 +1,5 @@
 # crabkeibo
-its a kakeibo apps building with rust
+its a kakeibo apps a personal financial note building with rust
 
 
 # Structure 
